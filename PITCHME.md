@@ -1,5 +1,5 @@
 ---?image=assets/images/lets-get-started.jpg&size=auto 90%&color=black
-@title[Introduction]
+@title[Welcome]
 
 ---?image=assets/images/face.jpg&position=left&size=55% 100%&color=#020203
 @title[Get Ready]
@@ -24,7 +24,6 @@
 ---?color=#e49436
 @title[For Everyone on Git]
 
-#### @size[0.8em](Available to @color[black](everyone) on)
 
 <br>
 
